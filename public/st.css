@@ -30,9 +30,9 @@
 }
 
 .border:hover {
-    box-shadow: 0 1px 5px 0 #568498 inset, 0 1px 5px 0 #6590a3, 0 1px 5px 0 #3e8c9b inset, 0 1px 50px 0 #70a3bd;
-    text-shadow: 1px #219591;
-    padding: 1px;
+    box-shadow: 0 1px 9px 0 #568498 inset, 0 1px 9px 0 #6590a3, 0 1px 9px 0 #3e8c9b inset, 0 1px 50px 0 #70a3bd;
+    text-shadow: 2px #219591;
+    padding: 2.5px;
 }
 
 /** Navbar Sections **/
